@@ -1,3 +1,15 @@
-﻿<?php
+<?php include 'header.php'; ?>
 
-echo 'Hello Framework!';
+	
+	<article class="content container">
+		<h1 class="shadow">Svadobny salon</h1>
+	
+		<h2 class="shadow">
+			Vitajte na stranke Svadobneho salona Sarah
+		</h2>
+
+		<img src="img/saty.jpg" class="image" alt="saty">
+	</article>
+
+
+<?php include 'footer.php'; ?>
