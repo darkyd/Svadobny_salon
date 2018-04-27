@@ -2,7 +2,7 @@
 
 	
 	<section class="content container">
-        <h1 class="shadow">Svadobny salon Sarah</h1>
+        <h1 class="shadow">Svadobný salón Sarah</h1>
 	
 		<h2 class="shadow">
             Salón Sarah v Michalovciach ako jeden zo šiestich salónov na Slovensku Vám ponúka svetoznáme značky Lisa Donetti, Novabella a Diane Legrand. Krásne vypracované korzety, citlivo zdobené kamienkami a kryštálikmi, vyšívané čipky dodávajú každému modelu iskru a lesk. V salóne Sarah najdete príťažlivé priliehavé siluety alebo vzdušné romantické dizajny, pri ktorých pocítite kvalitu značiek.

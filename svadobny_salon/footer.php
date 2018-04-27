@@ -1,21 +1,21 @@
-	</main>
+﻿	</main>
 
 	<aside class="pre-footer">
 		<div class="container">
-			<h3>Mate zaujem o nase sluzby?</h3>
+			<h3>Mate záujem o naše služby?</h3>
 
 			<p>
-				Nevahajte nas kontaktovat. Radi vam pomozeme.
+				Nevahajte nás kontaktovať. Radi vám pomôžeme.
 			</p>
 
-			<a href="contact.php" class="btn btn-green">Kontaktujete nas</a>
+			<a href="contact.php" class="btn btn-green">Kontaktujte nas</a>
 		</div>
 	</aside>
 
 	<footer class="site-footer">
 		<div class="container">
 			<p class="small">
-				&copy; David Majercik 2018
+				&copy; Dávid Majerčík 2018
 			</p>
 		</div>
 	</footer>

@@ -1,8 +1,8 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 
 	<section class="content container">
-		<h1 class="shadow">Ukazka nasich prac</h1>
+		<h1 class="shadow">Ukážka naších prác</h1>
 		
 
 	 	<div class="image-grid group">

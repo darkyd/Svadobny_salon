@@ -2,10 +2,10 @@
 
 	
 	<article class="content container">
-		<h1 class="shadow">Svadobny salon</h1>
+		<h1 class="shadow">Svadobný salón</h1>
 	
 		<h2 class="shadow">
-			Vitajte na stranke Svadobneho salonu Sarah
+			Vitajte na stránke Svadobného salónu Sarah
 		</h2>
 
 		<img src="img/saty.jpg" class="image" alt="saty">
