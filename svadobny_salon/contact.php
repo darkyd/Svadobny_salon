@@ -1,11 +1,11 @@
-﻿<?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 
 	<div class="content container">
 		<h1 class="shadow">Kontaktujte nás</h1>
 	
 		
-		<form action="#" class="contact-form">
+		<form action="send.php" class="contact-form" method="post">
 			<label for="your-name">
 				Vaše meno
 				<input type="text" id="your-name" name="your-name">
