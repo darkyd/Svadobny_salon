@@ -1,17 +1,17 @@
-﻿<?php
-session_start(); // Slouží pro uložení jména
-include('databaze.php'); // includuje soubor s údaji do databáze
+<?php
+session_start(); // Slouží pre uloženie mena
+include('databaze.php'); // includuje soubor s udajmi do databázy
 $jmeno = mysqli_real_escape_string($conn,$_POST['jmeno']); // Ochrana proti SQL injekci
 $zprava = mysqli_real_escape_string($conn,$_POST['zprava']); 
 
-if($jmeno != "" || $zprava != "") // Pokud jméno a zpráva něco obsahuje (není prázdné)
+if($jmeno != "" || $zprava != "") // Ak meno a správa niečo obsahujú (nesú prázdne)
 {
-mysqli_query($conn,"INSERT INTO `chat`(`jmeno`, `zprava`,`cas`) VALUES ('$jmeno','$zprava',Now())"); // Vloží do databáze... vkládáme pouze do jméno, zpráva a datum, ID se vloží samo
-$_SESSION['jmeno'] = $jmeno; // Nastaví jméno
-header("Location: chat_type.php"); // Vrátí se zpět k psaní zprávy
+mysqli_query($conn,"INSERT INTO `chat`(`jmeno`, `zprava`,`cas`) VALUES ('$jmeno','$zprava',Now())"); // Vloží do databázy... vkládame iba do meno, správa a dátum, ID se vloží samo
+$_SESSION['jmeno'] = $jmeno; // Nastaví meno
+header("Location: chat_type.php"); // Vrátí sa späť k pisaniu správy
 }
-else // Pokud je něco prázdné
+else // ak je niečo prázdne
 {
-header("Location: chat_type.php"); // Vrátí se zpět k psaní zprávy
+header("Location: chat_type.php"); // Vrátí sa späť k pisaniu správy
 }
 ?>
