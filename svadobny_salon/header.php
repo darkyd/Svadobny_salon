@@ -13,7 +13,7 @@
 	<header class="site-header">
 		<nav class="container">
             <ul class="menu">
-                <li><strong><a href="index.php">ÚVOD</a></strong></li>
+                <li><a href="index.php">ÚVOD</a></li>
                 <li><a href="gallery.php">GALERIA</a></li>
                 <li><a href="about.php">O NÁS</a></li>
                 <li><a href="chat.php">CHAT</a></li>
