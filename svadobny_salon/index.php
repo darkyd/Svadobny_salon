@@ -5,7 +5,7 @@
 		<h1 class="shadow">Svadobný salón</h1>
 	
 		<h2 class="shadow">
-			Vitajte na stránke Svadobného salónu Sarah
+			Vitajte na stránkee Svadobného salónu Sarah
 		</h2>
 
 		<img src="img/saty.jpg" class="image" alt="saty">
