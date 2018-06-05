@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -16,7 +16,7 @@
                 <li><a href="index.php">ÚVOD</a></li>
                 <li><a href="gallery.php">GALERIA</a></li>
                 <li><a href="about.php">O NÁS</a></li>
-                <li><a href="chat.php">CHAT</a></li>
+                <li><a href="chat.php" target="_blank">CHAT</a></li>
                 <li><a href="contact.php">KONTAKT</a></li>
             </ul>
 		</nav>
